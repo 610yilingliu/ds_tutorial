@@ -131,3 +131,8 @@ dmypy.json
 #bert files
 bert_base/
 *.h5
+
+# large datasets
+/L9/data/train.csv
+/L9/data/test.csv
+/L7/creditcard_data.csv
