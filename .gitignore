@@ -136,3 +136,5 @@ bert_base/
 /L9/data/train.csv
 /L9/data/test.csv
 /L7/creditcard_data.csv
+
+*/data/
